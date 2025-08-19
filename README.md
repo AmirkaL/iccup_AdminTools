@@ -4,7 +4,7 @@
 
 Инструмент для автоматизации обработки тикетов на игровой платформе iCCup. Приложение написано на Python с использованием PyQt6 и предназначено для администраторов, чтобы повысить скорость и консистентность рассмотрения жалоб на дисконнекты.
 
-![asd]([https://www.google.com/imgres?q=fr&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F5%2F5e%2FDomaine_.fr_logo.svg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2F.fr&docid=0gy-QDzMFCdFpM&tbnid=9wKwh8PwLceosM&vet=12ahUKEwjBioL7w5ePAxVFExAIHdTKC4UQM3oECBUQAA..i&w=797&h=800&hcb=2&ved=2ahUKEwjBioL7w5ePAxVFExAIHdTKC4UQM3oECBUQAA])
+![asd]([https://github.com/AmirkaL/iccup_AdminTools/blob/main/iCCup_Admin_Helper.png])
 
 ## 🎯 Проблема и Решение
 
